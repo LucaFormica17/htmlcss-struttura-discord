@@ -3,3 +3,33 @@
     margin: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: aqua;
+    height: 75px;
+}
+
+.bg-blue{
+    background-color: blue;
+    height: 400px;
+}
+
+.bg-white{
+    background-color: white;
+    height: 500px;
+}
+
+.bg-grey-1{
+    background-color: lightgrey;
+    height: 500px;
+}
+
+.bg-grey-2{
+    background-color: lightgrey;
+    height: 700px;
+}
+
+footer{
+    background-color: rgb(38, 38, 38);
+    height: 600px;
+    
+}
